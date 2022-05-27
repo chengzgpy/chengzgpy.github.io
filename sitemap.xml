@@ -433,21 +433,6 @@
   </url>
   
   <url>
-    <loc>https://zgcheng-lab.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zgcheng-lab.github.io/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zgcheng-lab.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zgcheng-lab.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -1125,6 +1110,10 @@
   <url>
     <loc>https://zgcheng-lab.github.io/publication/journal_publications/li-2009/</loc>
     <lastmod>2022-05-12T22:03:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zgcheng-lab.github.io/authors/admin/</loc>
   </url>
   
   <url>
