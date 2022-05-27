@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. H. P. Pernice | Light in Computing &amp; AI Lab</title>
+    <link>https://zgcheng-lab.github.io/authors/w.-h.-p.-pernice/</link>
+      <atom:link href="https://zgcheng-lab.github.io/authors/w.-h.-p.-pernice/index.xml" rel="self" type="application/rss+xml" />
+    <description>W. H. P. Pernice</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 **Lincai** Group at Fudan University</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zgcheng-lab.github.io/images/logo_hu3bb58e7875a249f756a030c5c20be65c_423218_300x300_fit_lanczos_2.png</url>
+      <title>W. H. P. Pernice</title>
+      <link>https://zgcheng-lab.github.io/authors/w.-h.-p.-pernice/</link>
+    </image>
+    
+    <item>
+      <title>All-Photonic in-Memory Computing Based on Phase-Change Materials</title>
+      <link>https://zgcheng-lab.github.io/publication/conference_publications/rios-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/conference_publications/rios-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-Photonic in-Memory Computing Based on Phase-Change Materials</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/rios-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/rios-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-memory computing on a photonic platform</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/rios-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/rios-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Phase-Change Photonics: A Strategy for Merging Communication and Computing</title>
+      <link>https://zgcheng-lab.github.io/publication/conference_publications/wright-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/conference_publications/wright-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable Volatility of Ge2Sb2Te5 in Integrated Photonics</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/youngblood-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/youngblood-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlled switching of phase-change materials by evanescent-field coupling in integrated photonics [Invited]</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/rios-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/rios-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Device-Level Photonic Memories and Logic Applications Using Phase-Change Materials</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-chip phase-change photonic memory and computing</title>
+      <link>https://zgcheng-lab.github.io/publication/conference_publications/cheng-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/conference_publications/cheng-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-chip photonic synapse</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

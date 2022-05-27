@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Light in Computing &amp; AI Lab</title>
+    <link>https://zgcheng-lab.github.io/project/</link>
+      <atom:link href="https://zgcheng-lab.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 **Lincai** Group at Fudan University</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zgcheng-lab.github.io/images/logo_hu3bb58e7875a249f756a030c5c20be65c_423218_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>https://zgcheng-lab.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>1. Optoelectronics</title>
+      <link>https://zgcheng-lab.github.io/project/optoelectronics-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/project/optoelectronics-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Optoelectronics is the study and application of electronic devices that interact with light (visible, the infrared or ultraviolet spectral region), which are used in a wide variety of application areas, such as optical fiber communications, laser technology, and all kinds of optical metrology. Typical optoelectronic devices are laser diodes, light-emitting diodes, photodetectors, imaging sensors, electro-optic modulators, electroabsorption modulators, opto-isolators, photonic integrated circuits.&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- [Check out the latest **demo**](https://academic-demo.netlify.com/) of what you&#39;ll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites. --&gt;
+&lt;!-- **Key features:**
+
+- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 15+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files. --&gt;
+&lt;h2 id=&#34;research-topics&#34;&gt;Research topics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Non-volatile optical phase-change materials&lt;/strong&gt; - Novel chalcogenide phase-change materials (e.g. Ge2Sb2Te5) with distinct optical and electrical contrasts between two stable states: amorphous and crystalline phases, with unique applications in photonics, electronics and optoelectronics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Low dimensional opto-electronic devices&lt;/strong&gt; -  Low dimensional materials, especially 2D materials, with execeptional optoelectronic properties and CMOS-compatible fabrication process can be used for high pferformance photodetectors, modulators, sensors, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reflective nanodisplays&lt;/strong&gt; -  Reflective color displays based on non-volatile materials show zero static power comsuption, high resolution and electrical modulation capability which have promising applications in next generation display technologies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Active optical metasurfaces&lt;/strong&gt; -  Optical metasurfaces hold considerable promise for future advances in fundamental optics and novel optical applications. Introducing active functionalities to metasurfaces is an essential step to the development of practicle optical components and devices.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2. Programmable Photonics</title>
+      <link>https://zgcheng-lab.github.io/project/silicon-photonics-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/project/silicon-photonics-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The growing maturity of integrated photonic technology makes it possible to build increasingly large and complex photonic circuits on the surface of a chip. Today, most of these circuits are designed for a specific application, but the increase in complexity has introduced a generation of photonic circuits that can be programmed using software for a wide variety of functions through a mesh of on-chip waveguides, tunable beam couplers and optical phase shifters.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;research-topics&#34;&gt;Research topics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Phase-change photonic devices&lt;/strong&gt; - Passive photonic devices, like beam couplers, phase shifters and multimode interferometers can be implemented with non-volatile phase-change materials achieving the programmablillity of devices with low power consumption.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration of photonics with 2D materials&lt;/strong&gt; -  By integrating 2D materials and heterostructures with silicon photonics, electrical programmable optical and optoelectronic devices can be obtained with complex functionalities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible signal processing&lt;/strong&gt; -  Through a mesh structure of waveguides, programamble phase-change devices and 2D photonic devices, a flexible signal processing chip will be developed with powerful functionalities similar to FPGA in electronic domain.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3. Photonic Computing</title>
+      <link>https://zgcheng-lab.github.io/project/photonic-computing-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/project/photonic-computing-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Implementing signal processing in the optical domain benefiting from the high speed and unprecedented bandwidth could eventually address the von Neumann bottleneck between the central processing unit and the memory in the existing computing architecture, especially driven by the request for boosting speed along with minimal power consumption.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;research-topics&#34;&gt;Research topics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Non-volatile photonic memory&lt;/strong&gt; - The emergence of phase-change photonics incorporating silicon photonics with phase-change materials (PCMs), has been considered a leading candidate in photonic memory and computing applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Photonic neuromorphic devices&lt;/strong&gt; -  Inspired by the brain, neuromorphic computing that attempts to imitate the neural system at the physical level has gained significant attention, recently driven by the needs of “big data”, artificial intelligence, and a supporting computing concept for the internet of things. As a first and key step to the construction of neuromorphic architecture, it is essential to develop suitably plastic synapse-like devices and nonlinear neural function devices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Photonic neural network&lt;/strong&gt; -  To implement neuromorphic computing in photonic domain, two different levels can be considered. First, the building block for neuromorphic computing could be a device with both memory and computing functions, which is named as phtonic &amp;ldquo;in-memory computing&amp;rdquo;. Secondly, we can mimic the synapses and neurons in a more biological way to achieve a photonic neuromorphic omputing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://zgcheng-lab.github.io/project/external-project-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/project/external-project-%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prof. Harish Bhaskaran</title>
+      <link>https://zgcheng-lab.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

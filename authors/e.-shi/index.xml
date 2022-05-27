@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Shi | Light in Computing &amp; AI Lab</title>
+    <link>https://zgcheng-lab.github.io/authors/e.-shi/</link>
+      <atom:link href="https://zgcheng-lab.github.io/authors/e.-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Shi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 **Lincai** Group at Fudan University</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zgcheng-lab.github.io/images/logo_hu3bb58e7875a249f756a030c5c20be65c_423218_300x300_fit_lanczos_2.png</url>
+      <title>E. Shi</title>
+      <link>https://zgcheng-lab.github.io/authors/e.-shi/</link>
+    </image>
+    
+    <item>
+      <title>Graphene Reinforced Carbon Nanotube Networks for Wearable Strain Sensors</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/shi-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/shi-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

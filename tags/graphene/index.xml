@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphene | Light in Computing &amp; AI Lab</title>
+    <link>https://zgcheng-lab.github.io/tags/graphene/</link>
+      <atom:link href="https://zgcheng-lab.github.io/tags/graphene/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graphene</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 **Lincai** Group at Fudan University</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zgcheng-lab.github.io/images/logo_hu3bb58e7875a249f756a030c5c20be65c_423218_300x300_fit_lanczos_2.png</url>
+      <title>Graphene</title>
+      <link>https://zgcheng-lab.github.io/tags/graphene/</link>
+    </image>
+    
+    <item>
+      <title>Graphene Reinforced Carbon Nanotube Networks for Wearable Strain Sensors</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/shi-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/shi-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlled construction of nanostructures in graphene</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/li-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/li-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity limits and scaling of bioelectronic graphene transducers</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward intrinsic graphene surfaces: A systematic study on thermal annealing and wet-chemical treatment of SiO&lt;inf&gt;2&lt;/inf&gt;-supported graphene devices</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-assembled 1-octadecanethiol monolayers on graphene for mercury detection</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/zhang-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/zhang-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suspended graphene sensors with improved signal and reduced noise</title>
+      <link>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://zgcheng-lab.github.io/publication/journal_publications/cheng-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
